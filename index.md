@@ -3,7 +3,7 @@
 avatar: 3408.jpg
 
 ![picture]
-(https://github.com/cazambon/cv2/blob/main/images/3408.jpg)
+(https://github.com/cazambon/cv2/blob/gh-pages/images/3408.jpg)
 
 You can use the [editor on GitHub](https://github.com/cazambon/cv2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
